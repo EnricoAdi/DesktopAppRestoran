@@ -7,3 +7,6 @@ Anggota :
 - Michael Kevin
 - Jonathan Bryan
 - Raymond Setiono
+
+<img src="https://github.com/EnricoAdi/DesktopAppRestoran/blob/master/docs/loginpage.jpg?raw=true"/> 
+<img src="https://github.com/EnricoAdi/DesktopAppRestoran/blob/master/docs/masterkaryawan.jpg?raw=true"/> 
