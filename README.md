@@ -1,4 +1,4 @@
-# proyekPBO2021
+# Proyek PBO SIB 2021
 Proyek PBO - Point of Sales Program
 
 Anggota :
