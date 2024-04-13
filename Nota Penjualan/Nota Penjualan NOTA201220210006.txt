@@ -1,0 +1,17 @@
+        "Resto Gak Kenyang Gak Pulang"
+           Jl Maju Mundur Nomor 20
+                  Surabaya
+             Telp. 081234567890
+  .........................................
+  Nota     : NOTA201220210006
+  Kasir    : Michael
+  Tanggal  : 2021-12-20
+  Metode   : Tunai
+  No Meja  : 8
+
+  Dine-In
+     Nasi Goreng 1 x 10000 -> 10000
+  .........................................
+     TOTAL            10000
+
+              TERIMA KASIH
